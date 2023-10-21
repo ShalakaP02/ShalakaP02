@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shalaka Purandare</h1>
 <h3 align="center">A enthusiastic java backend developer from India</h3>
 
-<image src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif" alt="" width="800" height="400" >
+<image src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif" alt="" width="1000" height="400" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalakap02&label=Profile%20views&color=0e75b6&style=flat" alt="shalakap02" /> </p>
 
