@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shalaka Purandare</h1>
 <h3 align="center">A enthusiastic java backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shalakap02&label=Profile%20views&color=0e75b6&style=flat" alt="shalakap02" /> </p>
+<image src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shalakap02" alt="shalakap02" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shalakap02&label=Profile%20views&color=0e75b6&style=flat" alt="shalakap02" /> </p>
 
 - 🔭 I’m currently working on **Spring Boot and Microservices based project**
 
